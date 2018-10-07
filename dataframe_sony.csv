@@ -1,0 +1,233 @@
+,id,title,title_original,genres,director,keywords,cast
+0,1458,Infiltrados en clase,21 Jump Street,"['Acción', 'Comedia', 'Crimen']","['Phil Lord', 'Christopher Miller']","['male friendship', 'investigation', 'high school', 'parody', 'crude humor', 'based on tv series', 'undercover cop', 'buddy cop', 'buddy comedy', 'duringcreditsstinger']","['Jonah Hill', 'Channing Tatum', 'Brie Larson', 'Dave Franco', 'Rob Riggle']"
+1,1464,Infiltrados en la universidad,22 Jump Street,"['Crimen', 'Comedia', 'Acción']","['Phil Lord', 'Christopher Miller']","['high school', 'undercover cop', 'buddy comedy', 'aftercreditsstinger', 'duringcreditsstinger']","['Jonah Hill', 'Channing Tatum', 'Peter Stormare', 'Ice Cube', 'Amber Stevens']"
+2,2423,"Bichos, una aventura en miniatura",A Bug's Life,"['Aventura', 'Animación', 'Comedia', 'Familia']",['John Lasseter'],"['winter', 'fight', 'ant', 'invention', 'collector', 'ant-hill', 'kids and family', 'grass', 'duringcreditsstinger']","['Dave Foley', 'Kevin Spacey', 'Julia Louis-Dreyfus', 'Hayden Panettiere', 'Phyllis Diller']"
+3,2673,Algunos hombres buenos,A Few Good Men,['Drama'],['Rob Reiner'],"['suicide', 'underdog', 'suspicion of murder', 'court case', 'navy', 'law', 'dying and death', 'guantanamo bay', 'marine corps', 'military court', 'code red', 'command', 'military base', 'u.s. navy', 'sexism', 'right and justice', 'based on play or musical', 'court martial', 'flashback', 'platoon leader', 'military law']","['Tom Cruise', 'Jack Nicholson', 'Demi Moore', 'Kevin Bacon', 'Kevin Pollak']"
+4,3413,Caminando entre las tumbas,A Walk Among the Tombstones,"['Crimen', 'Drama', 'Misterio', 'Suspense']",['Scott Frank'],"['based on novel or book', 'murder', 'mafia', 'private investigator', 'new york city', 'drugs', 'alcoholic', 'kingpin', 'wife murder', '1990s']","['Liam Neeson', 'Dan Stevens', 'David Harbour', 'Boyd Holbrook', 'Adam David Thompson']"
+5,3574,Abre los ojos,Abre los ojos,[],[],[],[]
+6,4491,Air Force One,Air Force One,[],[],[],[]
+7,4790,Alice in Wonderland,Alice in Wonderland,[],[],[],[]
+8,5415,American Pie,American Pie,[],[],[],[]
+9,6114,Angels & Demons,Angels & Demons,[],[],[],[]
+10,6251,Año bisiesto,Año bisiesto,[],[],[],[]
+11,6495,Apollo 13,Apollo 13,[],[],[],[]
+12,6794,Armageddon,Armageddon,[],[],[],[]
+13,7255,Assassination of a High School President,Assassination of a High School President,[],[],[],[]
+14,7300,Astro Boy,Astro Boy,[],[],[],[]
+15,7349,Átame!,Átame!,[],[],[],[]
+16,7970,Despedida de soltera,Bachelorette,"['Comedia', 'Romance']",['Leslye Headland'],"['bridesmaid', 'strip club', 'female friendship', 'overweight woman', 'reunion', 'drug use', 'wedding', 'wedding dress', 'childhood friends', 'woman director', 'bachelorette party', 'bitch']","['Kirsten Dunst', 'Isla Fisher', 'Lizzy Caplan', 'Rebel Wilson', 'Adam Scott']"
+17,7988,Regreso al futuro,Back to the Future,"['Aventura', 'Comedia', 'Ciencia ficción', 'Familia']",['Robert Zemeckis'],"['clock tower', 'car race', 'terrorist', 'delorean', 'lightning', 'guitar', 'plutonium', 'sports car', 'inventor', 'journey in the past', 'invention', 'time travel', 'race against time', 'partner', 'misfit', 'mad scientist', 'fish out of water', 'teenage love', 'destiny', 'hidden identity', 'odd couple', 'escapade', 'disorder', 'chases and races', 'love and romance', 'teenage life', 'misfit partners', 'changing the past or future', 'getting home']","['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Crispin Glover', 'Thomas F. Wilson']"
+18,7989,Regreso al futuro II,Back to the Future Part II,"['Aventura', 'Comedia', 'Familia', 'Ciencia ficción']",['Robert Zemeckis'],"['skateboarding', 'flying car', 'car race', 'delorean', 'lightning', 'almanac', 'inventor', 'time travel', 'sequel', 'diner', 'alternate history', 'teenager', 'electric guitar', 'walking cane', 'high school dance', 'hoverboard', 'video phone']","['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Elisabeth Shue', 'James Tolkan']"
+19,8025,Dos policías rebeldes II,Bad Boys II,"['Aventura', 'Acción', 'Comedia', 'Suspense', 'Crimen']",['Michael Bay'],"['miami', 'ku klux klan', 'cuba', 'undercover', 'mexican standoff', 'ecstasy', 'gangster', 'guantánamo', 'slaughter', 'shootout', 'gunfight', 'bromance', 'violence', 'foot chase', 'interrogation', 'car chase', 'drug lord', 'exploding house', 'narcotics cop', 'illegal drugs', 'dea agent', 'buddy cop', 'criminal underworld', 'action hero', 'haitian gang', 'minefield']","['Martin Lawrence', 'Will Smith', 'Jordi Mollà', 'Gabrielle Union', 'Peter Stormare']"
+20,8905,Bending All The Rules,Bending All The Rules,"['Comedia', 'Romance']","['Morgan Klein', 'Peter Knight']",[],"['Bradley Cooper', 'Colleen Porch', 'David Gail', 'Shauna Vatovec', 'James Martin Kelly']"
+21,9245,Big Fish,Big Fish,"['Aventura', 'Fantasía', 'Drama']",['Tim Burton'],"['circus', 'witch', 'parent child relationship', 'fish', 'fishing', ""love of one's life"", 'leech', 'story teller', 'apoplectic stroke', 'fair', 'mermaid', 'cancer', 'relationship', 'youth', 'gentle giant']","['Ewan McGregor', 'Albert Finney', 'Billy Crudup', 'Jessica Lange', 'Helena Bonham Carter']"
+22,10336,Brave (Indomable),Brave,"['Animación', 'Aventura', 'Comedia', 'Familia', 'Acción', 'Fantasía']","['Mark Andrews', 'Brenda Chapman']","['scotland', 'rebel', 'bravery', 'kingdom', 'archer', 'wish', 'animation', 'bear', 'scot', 'rebellious daughter', 'turns into animal', 'archery', 'ruins', 'aftercreditsstinger', 'peace offering', 'woman director', 'courage', 'quest', 'disney']","['Kelly Macdonald', 'Billy Connolly', 'Emma Thompson', 'Julie Walters', 'Robbie Coltrane']"
+23,10361,Breakaway,Breakaway,['Comedia'],['Rob Lieberman'],[],"['Vinay Virmani', 'Russell Peters', 'Camilla Belle', 'Anupam Kher', 'Rob Lowe']"
+24,10429,Bridesmaids,Bridesmaids,[],[],[],[]
+25,10528,Broken City,Broken City,[],[],[],[]
+26,10587,Bruce Almighty,Bruce Almighty,[],[],[],[]
+27,11428,Captain America: The First Avenger,Captain America: The First Avenger,[],[],[],[]
+28,11571,Carnage,Carnage,[],[],[],[]
+29,11847,Catch Hell,Catch Hell,[],[],[],[]
+30,12664,Choke,Choke,[],[],[],[]
+31,13279,Cloudy with a Chance of Meatballs,Cloudy with a Chance of Meatballs,[],[],[],[]
+32,14839,Cube,Cube,[],[],[],[]
+33,16693,Diana,Diana,[],[],[],[]
+34,17126,Django Unchained,Django Unchained,[],[],[],[]
+35,17341,Don Jon,Don Jon,[],[],[],[]
+36,17775,Drinking Buddies,Drinking Buddies,[],[],[],[]
+37,17778,Drive,Drive,[],[],[],[]
+38,17781,Drive Hard,Drive Hard,[],[],[],[]
+39,17816,Du cheng feng yun,Du cheng feng yun,[],[],[],[]
+40,18022,E.T. the Extra-Terrestrial,E.T. the Extra-Terrestrial,[],[],[],[]
+41,18060,Easy A,Easy A,[],[],[],[]
+42,18071,Eat Pray Love,Eat Pray Love,[],[],[],[]
+43,18468,El cantante,El cantante,[],[],[],[]
+44,19035,El mariachi,El mariachi,[],[],[],[]
+45,19553,El Valle del Vino,El Valle del Vino,[],[],[],[]
+46,20236,Enigma,Enigma,[],[],[],[]
+47,20555,Plan de escape,Escape Plan,"['Acción', 'Suspense']",['Mikael Håfström'],"['prison', 'prisoner', 'ship', 'mystery', 'escape', 'prison escape']","['Sylvester Stallone', 'Arnold Schwarzenegger', 'Jim Caviezel', 'Vinnie Jones', ""Vincent D'Onofrio""]"
+48,21001,Sigo como Dios,Evan Almighty,"['Fantasía', 'Comedia', 'Familia']",['Tom Shadyac'],"['parent child relationship', 'daily life', 'married couple', 'support', 'father', 'marriage', 'faith', 'baustelle', 'rescue', 'animal', 'nature', 'duringcreditsstinger', ""noah's ark""]","['Steve Carell', 'Morgan Freeman', 'Lauren Graham', 'Johnny Simmons', 'Graham Phillips']"
+49,21014,La apuesta perfecta,Even Money,"['Crimen', 'Drama']",['Mark Rydell'],"['gambling', 'gambling addiction']","['Kim Basinger', 'Kelsey Grammer', 'Forest Whitaker', 'Nick Cannon', 'Ray Liotta']"
+50,21069,El héroe de todos,Everyone's Hero,"['Aventura', 'Animación', 'Comedia', 'Familia']","['Christopher Reeve', 'Colin Brady', 'Dan St. Pierre']","['baseball bat', 'sport', 'theft', 'new york yankees']","['William H. Macy', 'Rob Reiner', 'Brian Dennehy', 'Ritchie Allen', 'Jake T. Austin']"
+51,21371,Cara a cara (Face/Off),Face/Off,"['Acción', 'Crimen', 'Ciencia ficción', 'Suspense']",['John Woo'],"['undercover', 'mexican standoff', 'fbi', 'biological weapon', 'face transplant', 'rage and hate', 'fistfight', 'hostility', 'revenge', 'deception', 'tragedy', 'shootout', 'hospital', 'boat chase', 'los angeles', 'explosion', 'extreme violence', 'prison escape', 'criminal gang', 'flashback', 'golden gun', 'arch villain', 'bullet ballet']","['John Travolta', 'Nicolas Cage', 'Joan Allen', 'Alessandro Nivola', 'Gina Gershon']"
+52,22152,Buscando a Nemo,Finding Nemo,"['Animación', 'Familia']",['Andrew Stanton'],"['parent child relationship', 'harbor', 'anthropomorphism', 'underwater', 'fish tank', 'great barrier reef', 'missing child', 'aftercreditsstinger', 'duringcreditsstinger', 'short term memory loss', 'clownfish', 'father son reunion', 'protective father']","['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould', 'Willem Dafoe', 'Brad Garrett']"
+53,22222,Obsesión Maternal,First Born,"['Drama', 'Terror', 'Suspense']",['Isaac Webb'],['independent film'],"['Elisabeth Shue', 'Steven Mackintosh', 'Kathleen Chalfant', 'Khandi Alexander', 'Carolyn Gilroy']"
+54,23479,Gangs of New York,Gangs of New York,[],[],[],[]
+55,23642,Gattaca,Gattaca,[],[],[],[]
+56,23887,Get Shorty,Get Shorty,[],[],[],[]
+57,23952,Ghost Rider: Spirit of Vengeance,Ghost Rider: Spirit of Vengeance,[],[],[],[]
+58,24106,Gladiator,Gladiator,[],[],[],[]
+59,24483,Gothika,Gothika,[],[],[],[]
+60,24739,Green Zone,Green Zone,[],[],[],[]
+61,25260,Hannibal,Hannibal,[],[],[],[]
+62,25406,Harsh Times,Harsh Times,[],[],[],[]
+63,25695,Hellboy,Hellboy,[],[],[],[]
+64,25761,Henry Poole Is Here,Henry Poole Is Here,[],[],[],[]
+65,25767,Her,Her,[],[],[],[]
+66,25865,Héroes,Héroes,[],[],[],[]
+67,26318,Holy Rollers,Holy Rollers,[],[],[],[]
+68,26435,Hook,Hook,[],[],[],[]
+69,26446,Hop,Hop,[],[],[],[]
+70,26453,Hope Springs,Hope Springs,[],[],[],[]
+71,26570,Hotel Rwanda,Hotel Rwanda,[],[],[],[]
+72,26572,Hotel Transylvania,Hotel Transylvania,[],[],[],[]
+73,26656,How the Grinch Stole Christmas,How the Grinch Stole Christmas,[],[],[],[]
+74,27024,I Spit on Your Grave,I Spit on Your Grave,[],[],[],[]
+75,27076,"I, Frankenstein","I, Frankenstein",[],[],[],[]
+76,27627,Inglourious Basterds,Inglourious Basterds,[],[],[],[]
+77,27969,Iron Man,Iron Man,[],[],[],[]
+78,28393,Jaws,Jaws,[],[],[],[]
+79,28608,Jezabel,Jezebel,"['Drama', 'Romance']",['William Wyler'],"['southern usa', 'self-destruction', ""love of one's life"", 'new orleans', 'louisiana', 'yellow fever', 'female protagonist', 'epidemic', 'pride', 'vanity', 'southern belle']","['Bette Davis', 'Henry Fonda', 'George Brent', 'Margaret Lindsay', 'Donald Crisp']"
+80,29292,Juno,Juno,"['Comedia', 'Drama', 'Romance']",['Jason Reitman'],"['sexuality', 'becoming an adult', 'puberty', 'first time', 'pregnancy and birth', 'pregnant minor', 'precocity', 'partnership', 'teenager', 'teenage pregnancy']","['Ellen Page', 'Michael Cera', 'Jennifer Garner', 'Jason Bateman', 'Allison Janney']"
+81,29804,Mátalos suavemente,Killing Them Softly,"['Crimen', 'Suspense']",['Andrew Dominik'],"['poker', 'gambling', 'robbery', 'based on novel or book', 'hitman', 'gangster', 'economy', 'murder', 'blood', 'hit', 'mobster', 'criminal']","['Brad Pitt', 'Scoot McNairy', 'Ben Mendelsohn', 'James Gandolfini', 'Ray Liotta']"
+82,29836,King Kong,King Kong,"['Aventura', 'Drama', 'Acción']",['Peter Jackson'],"['screenplay', 'show business', 'movie business', 'exotic island', 'monster', 'indigenous', 'ship', 'dinosaur']","['Naomi Watts', 'Jack Black', 'Adrien Brody', 'Thomas Kretschmann', 'Colin Hanks']"
+83,29978,Lío embarazoso,Knocked Up,"['Comedia', 'Romance', 'Drama']",['Judd Apatow'],"['alcohol', 'one-night stand', 'bed', 'pregnancy and birth', 'condom', 'paternity', 'drug use', 'beard', 'unprotected sex', 'duringcreditsstinger']","['Seth Rogen', 'Katherine Heigl', 'Leslie Mann', 'Paul Rudd', 'Jason Segel']"
+84,29986,Señales del futuro,Knowing,"['Acción', 'Aventura', 'Drama', 'Misterio', 'Ciencia ficción', 'Suspense']",['Alex Proyas'],"['cataclysm', 'code', 'suspense', 'end of the world', 'time capsule', 'astrophysicist', 'grieving widower', 'lexington massachusetts', 'westford massachusetts', 'prediction', 'researcher', 'numbers', 'news']","['Nicolas Cage', 'Rose Byrne', 'Chandler Canterbury', 'Ben Mendelsohn', 'Nadia Townsend']"
+85,32226,Lawless (Sin ley),Lawless,"['Crimen', 'Drama']",['John Hillcoat'],"['based on novel or book', 'prohibition', 'brother', 'bootlegging', '1930s']","['Shia LaBeouf', 'Tom Hardy', 'Guy Pearce', 'Jessica Chastain', 'Mia Wasikowska']"
+86,32236,Layer Cake (Crimen organizado),Layer Cake,"['Drama', 'Suspense', 'Crimen']",['Matthew Vaughn'],"['london england', 'kidnapping', 'ecstasy', 'drug traffic', 'cocaine', 'drug mule', 'hitman', 'mission of murder', 'gangster', 'planned murder', 'drug smuggle', 'murder', 'cafe', 'violence', 'rooftop', 'cult film', 'neo-noir', 'crack head']","['Daniel Craig', 'Tom Hardy', 'Colm Meaney', 'George Harris', 'Sally Hawkins']"
+87,32492,Legally Blonde,Legally Blonde,[],[],[],[]
+88,32978,Liar Liar,Liar Liar,[],[],[],[]
+89,33123,Lilo & Stitch,Lilo & Stitch,[],[],[],[]
+90,33407,Lo imposible,Lo imposible,[],[],[],[]
+91,33466,"Lock, Stock and Two Smoking Barrels","Lock, Stock and Two Smoking Barrels",[],[],[],[]
+92,33627,Lord of War,Lord of War,[],[],[],[]
+93,34144,Love and Other Impossible Pursuits,Love and Other Impossible Pursuits,[],[],[],[]
+94,34336,Lucky Number Slevin,Lucky Number Slevin,[],[],[],[]
+95,34719,Magic in the Moonlight,Magic in the Moonlight,[],[],[],[]
+96,34726,Magic Mike,Magic Mike,[],[],[],[]
+97,35025,Mamma Mia!,Mamma Mia!,[],[],[],[]
+98,35212,Maps to the Stars,Maps to the Stars,[],[],[],[]
+99,35538,Mary Poppins,Mary Poppins,[],[],[],[]
+100,36125,Men in Black 3,Men in Black 3,[],[],[],[]
+101,36916,Million Dollar Arm,Million Dollar Arm,[],[],[],[]
+102,37076,Mirror Mirror,Mirror Mirror,[],[],[],[]
+103,37104,Misery,Misery,[],[],[],[]
+104,37459,"Monsters, Inc.","Monsters, Inc.",[],[],[],[]
+105,38329,My Week with Marilyn,My Week with Marilyn,[],[],[],[]
+106,38622,National Treasure,National Treasure,[],[],[],[]
+107,38623,National Treasure: Book of Secrets,National Treasure: Book of Secrets,[],[],[],[]
+108,38986,Nicholas Nickleby,Nicholas Nickleby,[],[],[],[]
+109,39699,Notting Hill,Notting Hill,[],[],[],[]
+110,39770,Now You See Me,Now You See Me,[],[],[],[]
+111,40681,Once Upon a Time in Mexico,Once Upon a Time in Mexico,[],[],[],[]
+112,40734,One for the Money,One for the Money,[],[],[],[]
+113,41498,Oz the Great and Powerful,Oz the Great and Powerful,[],[],[],[]
+114,41697,Panic Room,Panic Room,[],[],[],[]
+115,42174,Pawn,Pawn,[],[],[],[]
+116,42790,"π, fe en el caos",Pi,"['Misterio', 'Drama', 'Suspense']",['Darren Aronofsky'],"['hacker', 'mathematician', 'helix', 'headache', 'chaos theory', 'migraine', 'mathematics', 'insanity', 'genius']","['Sean Gullette', 'Mark Margolis', 'Ben Shenkman', 'Samia Shoaib', 'Pamela Hart']"
+117,43031,Piratas del Caribe: En el fin del mundo,Pirates of the Caribbean: At World's End,"['Aventura', 'Fantasía', 'Acción']",['Gore Verbinski'],"['exotic island', 'east india trading company', ""love of one's life"", 'traitor', 'shipwreck', 'strong woman', 'alliance', 'afterlife', 'pirate', 'swashbuckler', 'aftercreditsstinger', 'based on young adult novel']","['Johnny Depp', 'Orlando Bloom', 'Keira Knightley', 'Stellan Skarsgård', 'Chow Yun-Fat']"
+118,43032,Piratas del Caribe: El cofre del hombre muerto,Pirates of the Caribbean: Dead Man's Chest,"['Aventura', 'Fantasía', 'Acción']",['Gore Verbinski'],"['witch', 'fortune teller', 'bondage', 'exotic island', 'monster', 'captain', 'card game', 'east india trading company', 'compass', 'ship', 'daughter', 'pirate', 'swashbuckler', 'aftercreditsstinger', 'based on young adult novel']","['Johnny Depp', 'Orlando Bloom', 'Keira Knightley', 'Stellan Skarsgård', 'Bill Nighy']"
+119,43033,Piratas del Caribe: En mareas misteriosas,Pirates of the Caribbean: On Stranger Tides,"['Aventura', 'Acción', 'Fantasía']",['Rob Marshall'],"['sea', 'captain', 'mutiny', 'sword', 'prime minister', 'sailing', 'silver', 'ship', 'duke', 'mermaid', 'pirate', 'soldier', 'battle', 'swashbuckler', 'aftercreditsstinger', '3d', 'based on young adult novel']","['Johnny Depp', 'Penélope Cruz', 'Ian McShane', 'Kevin McNally', 'Geoffrey Rush']"
+120,43036,Piratas del Caribe. La maldición de la Perla Negra,Pirates of the Caribbean: The Curse of the Black Pearl,"['Aventura', 'Fantasía', 'Acción']",['Gore Verbinski'],"['exotic island', 'blacksmith', 'east india trading company', 'gold', 'marriage proposal', 'mutiny', 'jamaica', 'skeleton', 'daughter', 'governor', 'wooden eye', 'gold coin', 'pirate', 'alcoholic', 'swashbuckler', 'caribbean', 'aftercreditsstinger', 'pirate ship', 'capuchin monkey', 'tortuga', 'based on young adult novel']","['Johnny Depp', 'Geoffrey Rush', 'Orlando Bloom', 'Keira Knightley', 'Jack Davenport']"
+121,43124,Plan B,Plan B,[],[],[],[]
+122,43205,Jugar para ganar,Playing for Keeps,['Drama'],['Gary Harvey'],['biography'],"['Jennifer Finnigan', 'Roger Cross', 'Doug Savant', 'Brian Markinson', 'Enuka Okuma']"
+123,43778,Pretty Woman,Pretty Woman,"['Romance', 'Comedia']",['Garry Marshall'],"['prostitute', 'capitalism', 'cinderella', 'expensive restaurant', 'sports car', 'workaholic', 'fire escape', 'friendship', 'los angeles', 'piano']","['Julia Roberts', 'Richard Gere', 'Ralph Bellamy', 'Jason Alexander', 'Héctor Elizondo']"
+124,44097,Psicosis,Psycho,"['Drama', 'Terror', 'Suspense']",[],"['hotel', 'clerk', 'arizona', 'shower', 'rain', 'motel', 'taxidermy', 'money', 'secretary', 'corpse', 'murderer', 'theft', 'private detective', 'proto-slasher']",[]
+125,44165,Puncture,Puncture,[],[],[],[]
+126,44579,Quiz Show,Quiz Show,[],[],[],[]
+127,44714,Rain man,Rain man,[],[],[],[]
+128,44859,Ratatouille,Ratatouille,[],[],[],[]
+129,44943,Real Steel,Real Steel,[],[],[],[]
+130,45030,Red 2,Red 2,[],[],[],[]
+131,45112,Red Dawn,Red Dawn,[],[],[],[]
+132,45129,Red Lights,Red Lights,[],[],[],[]
+133,45305,Remember the Titans,Remember the Titans,[],[],[],[]
+134,45408,Resident Evil: Retribution,Resident Evil: Retribution,[],[],[],[]
+135,45474,Resurrecting the Champ,Resurrecting the Champ,[],[],[],[]
+136,45895,Robocop,Robocop,[],[],[],[]
+137,45974,Rocky,Rocky,[],[],[],[]
+138,45978,Rocky Balboa,Rocky Balboa,[],[],[],[]
+139,45981,Rocky II,Rocky II,[],[],[],[]
+140,45982,Rocky III,Rocky III,[],[],[],[]
+141,45983,Rocky IV,Rocky IV,[],[],[],[]
+142,45986,Rocky V,Rocky V,[],[],[],[]
+143,46041,Role Models,Role Models,[],[],[],[]
+144,46355,Rurôni Kenshin: Densetsu no saigo-hen,Rurôni Kenshin: Densetsu no saigo-hen,[],[],[],[]
+145,46356,Rurôni Kenshin: Kyôto taika-hen,Rurôni Kenshin: Kyôto taika-hen,[],[],[],[]
+146,46357,Rurôni Kenshin: Meiji kenkaku roman tan,Rurôni Kenshin: Meiji kenkaku roman tan,[],[],[],[]
+147,46377,Rushmore,Rushmore,[],[],[],[]
+148,46432,S.W.A.T.,S.W.A.T.,[],[],[],[]
+149,46588,Saldo de cuentas,Saldo de cuentas,[],[],[],[]
+150,46967,Saving Mr. Banks,Saving Mr. Banks,[],[],[],[]
+151,47015,Scarface,Scarface,[],[],[],[]
+152,47045,Schindler's List,Schindler's List,[],[],[],[]
+153,47578,Serbuan maut,Serbuan maut,[],[],[],[]
+154,47582,Serena,Serena,['Drama'],['Susanne Bier'],"['corruption', 'sheriff', 'mountain', 'wilderness', 'ambition', 'north carolina', 'marriage', 'murder', 'debt', 'empire', 'hunting', 'woman director', 'logging', '1920s']","['Jennifer Lawrence', 'Bradley Cooper', 'Rhys Ifans', 'Toby Jones', 'Blake Ritson']"
+155,48450,The Four,四大名捕,"['Acción', 'Drama', 'Crimen']","['Gordon Chan', 'Janet Chun Siu Jan']","['zombie', 'counterfeiter', 'woman director']","['Deng Chao', 'Liu Yifei', 'Collin Chou', 'Ronald Cheng', 'Anthony Wong']"
+156,48451,The Four 2,4 มหากาฬพญายม 2,['Acción'],"['Gordon Chan', 'Janet Chun Siu Jan']","['martial arts', 'hong kong', 'chinese tradition', 'woman director']","['Deng Chao', 'Liu Yifei', 'Anthony Wong', 'Collin Chou', 'Ronald Cheng']"
+157,48452,The Four 3,四大名捕大结局,"['Acción', 'Crimen']","['Gordon Chan', 'Janet Chun Siu Jan']","['china', 'martial arts', 'hong kong', 'woman director']","['Deng Chao', 'Liu Yifei', 'Collin Chou', 'Ronald Cheng', 'Anthony Wong']"
+158,48531,Señales,Signs,"['Drama', 'Suspense', 'Ciencia ficción', 'Misterio']",['M. Night Shyamalan'],"['symbolism', 'water', 'farm', 'faith', 'alien', 'family relationships', 'rural setting', 'alien invasion', 'crop circle', 'alien attack', 'loss of faith', 'alien encounter']","['Mel Gibson', 'Joaquin Phoenix', 'Rory Culkin', 'Abigail Breslin', 'Cherry Jones']"
+159,48578,El lado bueno de las cosas,Silver Linings Playbook,"['Drama', 'Comedia', 'Romance']",['David O. Russell'],"['dancing', 'philadelphia', 'running', 'based on novel or book', 'depression', 'letter', 'friendship', 'neighbor', 'mental illness', 'ex-wife', 'institutionalization', 'bipolar', 'philadelphia eagles']","['Bradley Cooper', 'Jennifer Lawrence', 'Robert De Niro', 'Jacki Weaver', 'Chris Tucker']"
+160,48925,Slumdog Millionaire,Slumdog Millionaire,"['Drama', 'Romance']",['Danny Boyle'],"['slum', 'indian lead', 'cheating', 'suspicion', 'game show', 'quiz show', 'orphan', 'duringcreditsstinger', 'taj mahal', 'mumbai']","['Dev Patel', 'Freida Pinto', 'Anil Kapoor', 'Mia Drake Inderbitzin', 'Saurabh Shukla']"
+161,49009,Snatch.,Snatch.,[],[],[],[]
+162,49431,Hermandad de sangre,Sorority Row,"['Terror', 'Misterio']",['Stewart Hendler'],"['ax', 'graduation', 'serial killer', 'blood', 'slasher', 'killer', 'sorority house']","['Rumer Willis', 'Briana Evigan', 'Jamie Chung', 'Leah Pipes', 'Teri Andrzejewski']"
+163,49955,Stand by Me,Stand by Me,[],[],[],[]
+164,50295,Street Fighter: The Legend of Chun-Li,Street Fighter: The Legend of Chun-Li,[],[],[],[]
+165,51092,Tangled,Tangled,[],[],[],[]
+166,51176,Tarzan,Tarzan,[],[],[],[]
+167,51539,Terminator Salvation,Terminator Salvation,[],[],[],[]
+168,51699,Texas Chainsaw 3D,Texas Chainsaw 3D,[],[],[],[]
+169,51727,Thanks for Sharing,Thanks for Sharing,[],[],[],[]
+170,51818,The Adjustment Bureau,The Adjustment Bureau,[],[],[],[]
+171,51886,The Amazing Spider-Man,The Amazing Spider-Man,[],[],[],[]
+172,52245,The Blair Witch Project,The Blair Witch Project,[],[],[],[]
+173,52353,The Break-Up,The Break-Up,[],[],[],[]
+174,52409,The Burning Plain,The Burning Plain,[],[],[],[]
+175,52505,The Change-Up,The Change-Up,[],[],[],[]
+176,52561,The Chronicles of Narnia: Prince Caspian,The Chronicles of Narnia: Prince Caspian,[],[],[],[]
+177,52562,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",[],[],[],[]
+178,52771,The Da Vinci Code,The Da Vinci Code,[],[],[],[]
+179,52777,The Damned United,The Damned United,[],[],[],[]
+180,53129,The Exorcism of Emily Rose,The Exorcism of Emily Rose,[],[],[],[]
+181,53134,The Expendables 2,The Expendables 2,[],[],[],[]
+182,53474,The Good Doctor,The Good Doctor,[],[],[],[]
+183,53573,The Grey,The Grey,[],[],[],[]
+184,53697,The Help,The Help,[],[],[],[]
+185,53723,The Hitcher,The Hitcher,[],[],[],[]
+186,53724,The Hitchhiker's Guide to the Galaxy,The Hitchhiker's Guide to the Galaxy,[],[],[],[]
+187,53729,The Hobbit: An Unexpected Journey,The Hobbit: An Unexpected Journey,[],[],[],[]
+188,53730,The Hobbit: The Battle of the Five Armies,The Hobbit: The Battle of the Five Armies,[],[],[],[]
+189,53731,The Hobbit: The Desolation of Smaug,The Hobbit: The Desolation of Smaug,[],[],[],[]
+190,53813,Un viaje de diez metros,The Hundred-Foot Journey,['Drama'],['Lasse Hallström'],"['france', 'based on novel or book', 'indian lead', 'restaurant', 'family']","['Helen Mirren', 'Manish Dayal', 'Om Puri', 'Charlotte Le Bon', 'Rohan Chand']"
+191,53836,En tierra hostil,The Hurt Locker,"['Drama', 'Suspense', 'Bélica']",['Kathryn Bigelow'],"['sniper', 'explosive', 'loyalty', 'u.s. army', 'middle east conflict', 'iraq', 'car bomb', 'suspense', 'rescue', 'tension', 'trap', 'terrorism', 'soldier', 'violence', 'iraq war', 'desert', 'bomb squad', 'body armor', 'woman director', 'army sergeant']","['Jeremy Renner', 'Anthony Mackie', 'Brian Geraghty', 'Guy Pearce', 'Ralph Fiennes']"
+192,53882,Los increíbles,The Incredibles,"['Acción', 'Aventura', 'Animación', 'Familia']",['Brad Bird'],"['secret identity', 'secret', 'hero', 'island', 'wretch', 'supernatural powers', 'weapon', 'lawsuit', 'superhero']","['Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell', 'Spencer Fox', 'Jason Lee']"
+193,54258,La leyenda del Zorro,The Legend of Zorro,"['Acción', 'Aventura']",['Martin Campbell'],"['california', 'spy', 'mexico', 'parent child relationship', 'hero', 'marriage crisis', 'sword fight', 'divorce', 'american civil war']","['Antonio Banderas', 'Catherine Zeta-Jones', 'Adrián Alonso Barona', 'Julio Oscar Mechoso', 'Nick Chinlund']"
+194,54283,Life Aquatic,The Life Aquatic with Steve Zissou,"['Aventura', 'Comedia', 'Drama']",['Wes Anderson'],"['parent child relationship', 'red cap', 'rivalry', 'dysfunctional family', 'pirate', 'oceanography', 'scientific expedition', 'absurd humor', 'diorama', 'research turtles', 'acoustic guitar']","['Bill Murray', 'Anjelica Huston', 'Cate Blanchett', 'Willem Dafoe', 'Owen Wilson']"
+195,54379,Lórax: En busca de la trúfula perdida,The Lorax,"['Animación', 'Familia']","['Chris Renaud', 'Kyle Balda']","['tree', ""based on children's book"", 'walled city', 'reforestation', 'tree cutting']","['Zac Efron', 'Danny DeVito', 'Taylor Swift', 'Ed Helms', 'Rob Riggle']"
+196,54618,The Messengers,The Messengers,"['Misterio', 'Suspense', 'Terror']","['Danny Pang', 'Oxide Pang Chun']","['kitchen', 'north dakota', 'little boy', 'rural setting', 'heavy rain', 'sunflower', 'child murder', 'raven', 'death threat']","['Kristen Stewart', 'Dylan McDermott', 'Penelope Ann Miller', 'John Corbett', 'William B. Davis']"
+197,54741,La música nunca dejó de sonar,The Music Never Stopped,['Drama'],['Jim Kohlberg'],['independent film'],"['J.K. Simmons', 'Lou Taylor Pucci', 'Julia Ormond', 'Cara Seymour', 'Mía Maestro']"
+198,54814,The Next Best Thing,The Next Best Thing,[],[],[],[]
+199,54940,The Other Guys,The Other Guys,[],[],[],[]
+200,55069,The Perks of Being a Wallflower,The Perks of Being a Wallflower,[],[],[],[]
+201,55237,The Proposal,The Proposal,[],[],[],[]
+202,55295,The Raid 2: Berandal,The Raid 2: Berandal,[],[],[],[]
+203,55492,The Royal Tenenbaums,The Royal Tenenbaums,[],[],[],[]
+204,55495,The Rules of Attraction,The Rules of Attraction,[],[],[],[]
+205,55705,The Silence of the Lambs,The Silence of the Lambs,[],[],[],[]
+206,55726,The Sixth Sense,The Sixth Sense,[],[],[],[]
+207,55934,The Switch,The Switch,[],[],[],[]
+208,55980,The Terminator,The Terminator,[],[],[],[]
+209,56021,The Thomas Crown Affair,The Thomas Crown Affair,[],[],[],[]
+210,56261,The Vow,The Vow,[],[],[],[]
+211,56363,The Whistleblower,The Whistleblower,[],[],[],[]
+212,56471,The Words,The Words,[],[],[],[]
+213,57003,TMNT,TMNT,[],[],[],[]
+214,58033,TRON: Legacy,TRON: Legacy,[],[],[],[]
+215,58038,Tropa de Elite,Tropa de Elite,[],[],[],[]
+216,58378,Twister,Twister,[],[],[],[]
+217,58811,Un día a la vez,Un día a la vez,[],[],[],[]
+218,59108,Unbreakable,Unbreakable,[],[],[],[]
+219,59315,Up,Up,[],[],[],[]
+220,59521,Valkyrie,Valkyrie,[],[],[],[]
+221,60465,Wall-E,Wall-E,[],[],[],[]
+222,60497,Wanted,Wanted,[],[],[],[]
+223,60530,Warm Bodies,Warm Bodies,[],[],[],[]
+224,60806,When Harry Met Sally...,When Harry Met Sally...,[],[],[],[]
+225,60868,While She Was Out,While She Was Out,[],[],[],[]
+226,61194,Without a Paddle,Without a Paddle,[],[],[],[]
+227,61327,¡Rompe Ralph!,Wreck-It Ralph,"['Familia', 'Animación', 'Comedia', 'Aventura']",['Rich Moore'],"['support group', 'product placement', 'bullying', 'racing', 'arcade', 'medal', 'self esteem', 'curiosity', 'precocious child', 'aftercreditsstinger', 'duringcreditsstinger', 'first person shooter', 'glitch', 'carefree', 'video gamer', 'q*bert', 'interrupted wedding', 'social reject', 'purpose of life']","['Jane Lynch', 'Alan Tudyk', 'Mindy Kaling', 'Joe Lo Truglio', 'Jack McBrayer']"
+228,61861,Suspense... hora cero,Zero Hour!,"['Drama', 'Suspense']",['Hall Bartlett'],"['airport', 'canada', 'airplane', 'disaster', 'food poisoning', 'doctor', 'crash landing']","['Dana Andrews', 'Linda Darnell', 'Sterling Hayden', ""Elroy 'Crazylegs' Hirsch"", 'Geoffrey Toone']"
+229,61965,Zooloco,Zookeeper,"['Comedia', 'Romance', 'Familia']",['Frank Coraci'],"['zoo', 'anthropomorphism', 'zookeeper', 'scientist', 'ostrich', 'monkey', 'bullfrog', 'car dealership', 'duringcreditsstinger']","['Kevin James', 'Rosario Dawson', 'Sylvester Stallone', 'Nick Nolte', 'Jon Favreau']"
+230,74163,Los siete magníficos,The Magnificent Seven,"['Aventura', 'Acción', 'Western']",['Antoine Fuqua'],['remake'],"['Denzel Washington', 'Chris Pratt', 'Ethan Hawke', ""Vincent D'Onofrio"", 'Lee Byung-hun']"
+231,76034,Captive,Captive,[],[],[],[]
