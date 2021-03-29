@@ -63,7 +63,7 @@ prompt-toolkit==1.0.15
 psutil==5.4.6
 psycopg2==2.7.5
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 Pympler==0.5
 PyMySQL==0.9.2
 pyparsing==2.2.0
