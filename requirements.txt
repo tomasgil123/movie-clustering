@@ -46,7 +46,7 @@ kiwisolver==1.0.1
 MarkupSafe==1.0
 matplotlib==2.2.2
 mca==1.0.3
-mistune==0.8.3
+mistune==2.0.3
 msgpack==0.5.6
 nbconvert==5.3.1
 nbformat==4.4.0
